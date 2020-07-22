@@ -4,6 +4,9 @@ body{
     background-image:  url(playa.jpg);
   }
 
+#box{
+  background-color:purple;
+  padding:20px;
 
    
 }
@@ -13,7 +16,7 @@ h2{
     margin-bottom: 35px;
     padding-top: 25px;
     text-align: center;
-    background-color: yellow;
+    background-color: purple;
 }
 
 #highlight {
