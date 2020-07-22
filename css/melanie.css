@@ -1,7 +1,7 @@
 body{ 
     
     box-sizing: border-box; 
-    background-image:  url(mar.jpg);
+    background-image:  url(bosque.jpg);
   }
 
 
@@ -54,7 +54,7 @@ h2{
     padding: 60px 20px 10px 20px;
     border: 3px solid;
     font-size:18px;
-    background-color:yellow;
+    background-color:orange;
     color:black;
     font-weight: bold;
     font-style: italic;
@@ -64,7 +64,7 @@ h2{
      padding: 60px 20px 10px 20px;
     border: 3px solid;
     font-size:18px;
-    background-color:skyblue;
+    background-color:violet;
     color:black;
     font-weight: bold;
     font-style: italic;
